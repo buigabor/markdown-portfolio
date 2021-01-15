@@ -1,2 +1,2 @@
-[] Add image
-[] Add link
+[ ] Add image
+[ ] Add link
